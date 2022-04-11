@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Doctor\'s Helper</string>
+    <string name="name">TextView</string>
+    <string name="phone">TextView</string>
+    <string name="Patient_Name">Enter Patient\'s Name</string>
+    <string name="Patient_Disease">Enter the disease or diagnose</string>
+    <string name="Patient_Appointment">Enter schedule for next appointment</string>
+    <string name="Patient_Phone">Enter the phone number of the Patient</string>
+    <string name="text">Input Here</string>
+
+</resources>
